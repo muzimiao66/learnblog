@@ -16,6 +16,34 @@
   </url>
   
   <url>
+    <loc>https://muzimiao66.github.io/learnblog/post/2019-12-28-golang.1.base/</loc>
+    <lastmod>2019-12-28T12:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzimiao66.github.io/learnblog/post/golang-chinese-3%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
+    <lastmod>2019-12-28T12:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzimiao66.github.io/learnblog/</loc>
+    <lastmod>2019-12-28T12:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzimiao66.github.io/learnblog/post/</loc>
+    <lastmod>2019-12-28T12:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://muzimiao66.github.io/learnblog/categories/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,20 +60,6 @@
   <url>
     <loc>https://muzimiao66.github.io/learnblog/categories/category-3/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://muzimiao66.github.io/learnblog/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://muzimiao66.github.io/learnblog/post/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -72,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/categories/theme-preview/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/tags/theme-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/tags/theme-preview/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/categories/theme-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -100,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/categories/english/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/tags/english/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -135,14 +149,14 @@
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://muzimiao66.github.io/learnblog/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://muzimiao66.github.io/learnblog/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
