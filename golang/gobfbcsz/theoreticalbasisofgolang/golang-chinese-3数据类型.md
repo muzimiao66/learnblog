@@ -13,4 +13,9 @@ slice1 = append(slice1,"Lisp");
 的切片值的底层数组，并包含原切片值中的全部元素值以及作为扩展内容的所有元素值。
  
 
-
+内建函数append的第二个参数是一个可变长参数，append 函数把两个元素类型相同的切片值连接起来。例如：
+```golang
+slice1 = append(slice2,slice1...);
+var slice4 = []string
+slice4 = append(slice4,slice1);
+```
