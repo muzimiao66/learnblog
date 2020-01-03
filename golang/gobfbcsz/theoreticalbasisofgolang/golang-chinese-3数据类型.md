@@ -48,9 +48,9 @@ f的字段或者方法。不过不能满足这两个前提条件，那么选择�
 
 >7. 可变长参数  
 >```golang
-appendIAbsent([]string{"A","B","c"},[]string{"C","B","E"}...)
-appendIAbsent([]string{"A","B","C"},s...)
-````
+>appendIAbsent([]string{"A","B","c"},[]string{"C","B","E"}...)
+>appendIAbsent([]string{"A","B","C"},s...)
+>````
 
 ## 3.2数据类型
 ### 3.2.3  切片
